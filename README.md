@@ -1,5 +1,5 @@
 # BACKJOON_solution
-> 백준 알고리즘 문제풀이
+> 백준 알고리즘 문제풀이(*python*)
 
 ![image](https://user-images.githubusercontent.com/73583182/119216139-d0157180-bb0c-11eb-8a7d-c236cb261723.png)
 
@@ -12,3 +12,6 @@
 - [함수](https://github.com/real-moo/BACKJOON_solution/tree/main/%ED%95%A8%EC%88%98)
 - [문자열](https://github.com/real-moo/BACKJOON_solution/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [기본 수학 1](https://github.com/real-moo/BACKJOON_solution/tree/main/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201)
+
+## 더 자세한 설명이 보고싶다면
+블로그 : <https://butt3r-cat.tistory.com/category/Algorithm/BAEKJOON>
